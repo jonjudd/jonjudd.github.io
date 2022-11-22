@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Home Page. Make description.
+Home Page. Make description. I'm testing this on VS code. If you really want to know more about me please look at my LinkedIn. This is a work in process. 
