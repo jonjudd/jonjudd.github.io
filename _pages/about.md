@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Home Page. Make description. I'm testing this on VS code. If you really want to know more about me please look at my LinkedIn. This is a work in process. 
+Hi everyone. I'm Jon. I'm a Stanford Genetics PhD Candidate researching the genetic and environmental causes of prostate cancer, and their role in disparities between populations. I'm passionate about science advocacy and science policy revolving around health equity, STEM education, and science funding. 
+
+I'm also pretty good at playing Quidditch.
