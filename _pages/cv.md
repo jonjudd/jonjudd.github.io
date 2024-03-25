@@ -77,7 +77,7 @@ Leadership Activities
 * **Financial Officer** (Dec. 2021-Dec. 2023) - _Stanford BioJam_
   * Applied for and was awarded over $100,000 in university and public grants to develop and operate a yearly educational camp.
   * Managed organization and distribution of funds to pay student workers and guest speakers to enable a community-led camp devoted to the education of teenagers underrepresented in STEM.
-  * Worked with Stanford administrators across departments and community organizations to ease the transfer of funds between required parties.* Skill 3
+  * Worked with Stanford administrators across departments and community organizations to ease the transfer of funds between required parties.
 
 
 Teaching & Mentoring Experience
