@@ -16,29 +16,29 @@ Education
 
 Research Experience
 ======
-* Ph.D. Candidate (June 2022-Present) - Stanford University
-  * Advisors: Dr. John Witte, Dr. Jonathan Pritchard, & Dr. Linda Kachuri 
-  * Project: Evaluation and Improvement of Polygenic Risk Scores in Diverse Genetic and Socioeconomic Populations
+* **Ph.D. Candidate** (June 2022-Present) - _Stanford University_
+  * **Advisors**: Dr. John Witte, Dr. Jonathan Pritchard, & Dr. Linda Kachuri 
+  * **Project**: Evaluation and Improvement of Polygenic Risk Scores in Diverse Genetic and Socioeconomic Populations
   * Applied population genetics, genetic epidemiology, and computational biology principles to improve the prediction of prostate cancer across diverse and underrepresented populations.
 
-* Post-baccalaureate Research Fellow (June 2020-May 2021) - University of Pennsylvania
-  * Advisors: Dr. Christopher Brown & Dr. Ben Voight
-  * Project: Identifying Causal Genes Underlying Lipid Biology Using Integrative Colocalization Approaches
+* **Post-baccalaureate Research Fellow** (June 2020-May 2021) - _University of Pennsylvania_
+  * **Advisors**: Dr. Christopher Brown & Dr. Ben Voight
+  * **Project**: Identifying Causal Genes Underlying Lipid Biology Using Integrative Colocalization Approaches
   * Used computational tools to integrate GWAS, eQTL, and CaptureC data to identify causal genes influencing blood lipids as part of the PennPREP program
 
-* Research Assistant (Aug. 2019-June 2020) - Johns Hopkins University
-  * Advisors: Dr. Andrew Feinberg 
-  * Project: Understanding the effect of CpG methylation on hyperplasia development in Trim28 mice
+* **Research Assistant** (Aug. 2019-June 2020) - _Johns Hopkins University_
+  * **Advisors**: Dr. Andrew Feinberg 
+  * **Project**: Understanding the effect of CpG methylation on hyperplasia development in Trim28 mice
   * Used computational and experimental methods to better understand the effect of epigenetics on gene expression and phenotype
 
-* Summer Undergraduate Research Fellow (June 2019-Aug. 2019) - The Jackson Laboratory
-  * Advisors: Dr. Cynthia Smith
-  * Project: Use of Bioinformatics Tools to Identify Novel Genes Contributing to Lung Cancer Development
+* **Summer Undergraduate Research Fellow** (June 2019-Aug. 2019) - _The Jackson Laboratory_
+  * **Advisors**: Dr. Cynthia Smith
+  * **Project**: Use of Bioinformatics Tools to Identify Novel Genes Contributing to Lung Cancer Development
   * Developed scientific confidence and independence as well as computational, networking, and presenting skills as part of the JAX SSP program
 
 Policy Experience
 ======
-* Science Engagement Policy Research Assistant (June 2023-Oct. 2023) - Association of Science and Technology Centers
+* **Science Engagement Policy Research Assistant** (June 2023-Oct. 2023) - Association of Science and Technology Centers
   * Utilized publicly available data to research and landscape federal programs that engage the public with science and technology.
   * Established a framework and database to characterize initiatives by the federal government to classify science engagement efforts for a variety of stakeholders.
 
